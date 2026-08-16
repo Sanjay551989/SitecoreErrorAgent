@@ -1,0 +1,22 @@
+From: donotreply@watercorporation.com.au <donotreply@watercorporation.com.au> 
+Sent: Wednesday, 15 July 2026 7:34 AM
+To: Digital Support <digitalsupport@watercorporation.com.au>
+Subject: prod - [Action Required] Failure to update SiteCore table from My WaterInternal Application
+
+Updated failed for the user/ org ABN daniellewares@hotmail.com in sitecored table due to error null message: null RequestBody: {"UserName":"daniellewares@hotmail.com","FirstName":"DANIELLE","CssId":"231736","PhoneNumber":"61400630540","LastName":"WARES","PreferredContactMethod":"E-Mail","EmailAddress":"daniellewares@hotmail.com","UserObjectId":"6c353b18-dad7-40f1-9a49-52855787a45e"} 
+
+
+From: donotreply@watercorporation.com.au <donotreply@watercorporation.com.au> 
+Sent: Wednesday, 15 July 2026 9:50 AM
+To: Digital Support <digitalsupport@watercorporation.com.au>
+Subject: prod - [Action Required] Failure to update SiteCore table from My WaterInternal Application
+
+Updated failed for the user/ org ABN indiahenry18@gmail.com in sitecored table due to error null message: null RequestBody: {"UserName":"indiahenry18@gmail.com","FirstName":"INDIA","CssId":"999019040","PhoneNumber":"61452063194","LastName":"EDEN","PreferredContactMethod":"E-Mail","EmailAddress":"indiahenry18@gmail.com","UserObjectId":"5f940b51-b560-477b-89f3-8cc08ce6a01a"} 
+
+
+From: donotreply@watercorporation.com.au <donotreply@watercorporation.com.au> 
+Sent: Wednesday, 15 July 2026 10:20 AM
+To: Digital Support <digitalsupport@watercorporation.com.au>
+Subject: prod - [Action Required] Failure to update SiteCore table from My WaterInternal Application
+
+Updated failed for the user/ org ABN Sienna05 in sitecored table due to error null message: null RequestBody: {"UserName":"Sienna05","FirstName":"NICOLA","CssId":"30618","PhoneNumber":"0407605723","LastName":"STONE","PreferredContactMethod":"E-Mail","EmailAddress":"stoney@iinet.net.au","UserObjectId":"9ea10073-2742-40f6-b036-c096b50eda8d"} 
